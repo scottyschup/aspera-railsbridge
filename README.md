@@ -1,4 +1,5 @@
-railsbridge-slides
-==================
+# railsbridge-slides
 
-Slides and materials for RailsBridge RoR workshop
+Slides and materials for RailsBridge Ruby on Rails workshop.
+
+Customize with your dates, location, and logos
