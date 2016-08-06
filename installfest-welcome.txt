@@ -1,0 +1,10 @@
+Welcome to Aspera (an IBM Company)
+
+Grab some food (once it gets here)
+Meet some people
+Join the WiFi
+  SSID: AsperaAir
+  password: rollonyoubears
+Installfest instructions are at:
+installfest.railsbridge.org/installfest/
+bathroom codes: women 23234; men 78784
